@@ -1,2 +1,4 @@
+import numpy as np
+
 def test():
-    return ("Hah")
+    return ("Hahaa")
